@@ -12,7 +12,7 @@
     "consolidate": "^0.13.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "express": "~4.15.5",
+    "express": "~4.20.0",
     "fs-extra": "~4.0.2",
     "fs-promise": "^2.0.3",
     "morgan": "~1.9.0",
